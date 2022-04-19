@@ -33,6 +33,11 @@
         "value": "",
         "required": true
       },
+      "DURATION_LIMIT": {
+        "description": "Botfather'dan bir Bot jetonu",
+        "value": "180",
+        "required": true
+      },
       "MONGO_DB_URI": {
         "description": "Mongo DB URL",
         "value": "",
